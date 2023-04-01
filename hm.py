@@ -1,5 +1,6 @@
 import numpy as np
 import random
+x = 5
 def hangman():
     word = random.choice(['jake','chill','cat','lion','bla','tata'])
     validletters = 'abcdefghijklmnopqrstuvwxyz'
