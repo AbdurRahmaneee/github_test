@@ -1,6 +1,8 @@
 import numpy as np
 import random
-x = 5
+x = 5 + 5dfd
+y = 34dfd
+f = 4dfdf
 def hangman():
     word = random.choice(['jake','chill','cat','lion','bla','tata'])
     validletters = 'abcdefghijklmnopqrstuvwxyz'
