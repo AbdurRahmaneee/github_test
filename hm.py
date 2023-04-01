@@ -1,3 +1,4 @@
+import numpy
 import random
 def hangman():
     word = random.choice(['jake','chill','cat','lion','bla','tata'])
